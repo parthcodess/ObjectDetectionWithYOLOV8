@@ -1,0 +1,8 @@
+opencv-python
+imread-from-url
+onnxruntime-gpu
+cap-from-youtube
+
+download models:
+yolov8m.onnx
+yolov8v.onnx
